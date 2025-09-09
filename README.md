@@ -1,11 +1,11 @@
-# 📈 Portföy Takip Uygulaması
+# Portföy Takip Uygulaması
 
 Bu proje, kullanıcıların sahip oldukları hisseleri kaydedip **alış fiyatı**, **anlık satış fiyatı** ve **kâr/zarar durumunu** takip edebilmelerini sağlayan bir web uygulamasıdır.  
 Amaç, basit bir simülasyonla portföy yönetimi deneyimi sunmak ve ileride gerçek borsa verileriyle entegrasyona uygun bir altyapı oluşturmaktır.
 
 ---
 
-## 🚀 Özellikler
+## Özellikler
 
 - **Kullanıcı Girişi:**  
   Kullanıcı e-posta ve şifre ile giriş yapar.
@@ -24,7 +24,7 @@ Amaç, basit bir simülasyonla portföy yönetimi deneyimi sunmak ve ileride ger
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 - **Frontend:** React  
 - **Backend:** Java (Spring Boot)  
@@ -32,7 +32,7 @@ Amaç, basit bir simülasyonla portföy yönetimi deneyimi sunmak ve ileride ger
 
 ---
 
-## ⚙️ Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 
 ### 1. Repoyu Klonla
 ```bash
